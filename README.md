@@ -14,11 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/FOJF?pet-id=1" width="1000" height="120"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=FOJF&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/FOJF?pet-id=717912815033504900"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 <div align = "center"> 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/FOJF"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=FOJF&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/FOJF"
+  width="600"
+  height="300"
+/>
 </a>
