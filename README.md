@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/lines/FOJF?pet-id=1" width="1000" height="120"/>
 </a>
 
+<div align = "center"> 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/FOJF"/>
 </a>
