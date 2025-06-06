@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=FOJF&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/FOJF?pet-id=717912815033504900"
+    src="https://render.gitanimals.org/lines/FOJF?pet-id=717908871129450553"
     width="600"
     height="120"
   />
 </a>
-  
 
 <div align = "center"> 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=FOJF&utm_content=farm">
